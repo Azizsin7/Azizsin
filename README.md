@@ -16,6 +16,7 @@ I hope to be able to turn the ideas I have into reality with the programming lan
 Do you know something that might be useful for me? 
 Send me an email!
 
+----
 
 Hobbies
 ---
