@@ -3,7 +3,9 @@ Aziz Azizi
 I'm interested to see how much I can expand my skills in programming languages 
 
 → How can we find the sweet spot between creating, developing and making sure they're well-researched?
+
 ----
+
 Learner (newbie)
 I am learning new languages to discover which ones will be useful and efficient for me. There are many resources available on the internet for learning, but none of them seem to be a good fit. I believe that learning through trial and error is the best way to learn.
 I hope to be able to turn the ideas I have into reality with the programming language and become useful.
